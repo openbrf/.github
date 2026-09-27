@@ -13,6 +13,16 @@ Open BRF is an open source, self-hostable platform for Swedish housing cooperati
 
 **No lock-in.** AGPL-3.0, no binding period, and self-hosting is free, forever.
 
+### På svenska
+
+**Open BRF är ett system för bostadsrättsföreningar, byggt på öppen källkod.** Styrelsen och alla som bor i huset får ett gemensamt verktyg, och föreningen äger sin data: ingen bindningstid, ingen inlåsning, och att drifta systemet själv är gratis för alltid.
+
+- **För styrelsen:** medlemsförteckning och lägenhetsförteckning enligt bostadsrättslagen, adressbok, nyheter och utskick, dokumentarkiv, felanmälningar och ärenden, avgiftsavier och föreningens egen hemsida.
+- **För de boende:** nyheter och dokument, bokning av tvättstuga, bastu och gästlägenhet, evenemang, felanmälan med bild, nyckelbeställning, ansökan om andrahandsuthyrning, motioner till stämman, lägenhetspärmen och chatt med grannarna. Alla i hushållet får ett eget konto.
+- **Svensk lag inbyggd:** GDPR med gallring, registerutdrag och maskering av skyddade personuppgifter, och medlemsförteckningen och lägenhetsförteckningen hålls isär så som lagen kräver.
+
+Open BRF är ännu inte släppt. En pilot i en riktig förening startar i december 2026, och den första publika versionen planeras till första kvartalet 2027. Frågor och idéer är välkomna som issues eller i diskussionerna, på svenska eller engelska.
+
 > **Pre-release.** A pilot in a real association starts in December 2026, and the first public release is planned for Q1 2027. Nothing here has run a housing cooperative yet.
 
 - [openbrf/openbrf](https://github.com/openbrf/openbrf) - the platform
